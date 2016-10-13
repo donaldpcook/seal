@@ -1,5 +1,5 @@
 dtree:
-  channel: '#donaldcook-channel'
+  channel: '#xfn-dtree-eng'
   repos:
     - LabelInsightVerificationFrontEnd
   members:
