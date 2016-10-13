@@ -1,0 +1,14 @@
+dtree:
+  channel: '#donaldcook-channel'
+  repos:
+    - LabelInsightVerificationFrontEnd
+  members:
+    - donaldpcook
+    - JimmyMow
+    - dtrollinger
+    - hnguyen-fe
+    - hutchip2
+    - jmlw-li
+  use_labels: true
+  exclude_labels:
+    - wip
