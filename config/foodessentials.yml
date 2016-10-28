@@ -12,3 +12,10 @@ dtree:
   use_labels: true
   exclude_labels:
     - wip
+
+frontend:
+  members:
+    - donaldpcook
+
+  channel:
+    "#donaldcook-channel"
